@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrii Yushchenko</h1>
-<h3 align="center">Front-End Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on [Cup Of Sugar app](https://github.com/jfnumainville/cup_of_sugar)
 
