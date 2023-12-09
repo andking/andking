@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cup Of Sugar app](https://github.com/jfnumainville/cup_of_sugar)
 
-- 🌱 I’m currently learning **React, Vue frameworks**
+- 🌱 I’m currently learning **React, Vue frameworks and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
