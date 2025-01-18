@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrii Yushchenko</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [Cup Of Sugar app](https://github.com/jfnumainville/cup_of_sugar)
+- 🔭 I’m currently working on [Cup Of Sugar web-app](https://github.com/jfnumainville/cup_of_sugar)
 
-- 🌱 I’m currently learning **React, Vue frameworks and Python**
+- 🌱 I’m currently improving **React, Vue frameworks and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
